@@ -21,7 +21,7 @@ The basic logic is contained in the contract Token.sol
 
 Migration of the token is made by Ovner, he can call the method, and which will indicate the number of token holders who must switch to a new contract. So you can avoid overflow on gas, and investors will not need to call the smart contract method for the transition.
 
-## How do I set up the development environment and run tests?
+## How set up the development environment and run tests
 
 Use this link to install all you need -> http://truffleframework.com/tutorials/how-to-install-truffle-and-testrpc-on-windows-for-blockchain-development
 
