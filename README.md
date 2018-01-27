@@ -30,4 +30,4 @@ Use this link to install all you need -> http://truffleframework.com/tutorials/h
 3. Start "testrpc".
 4. Run the "truffle test" in your local directory, which contains this repo.
 
-I did not use truffle migration, instead I downloaded Mist (or EthereumWallet) with the full ethereum node, inserted the whole .sol contract into one file and loaded it into the block chain.
+I did not use truffle migration, instead I downloaded Mist (or EthereumWallet) with the full ethereum node, inserted the whole .sol contracts into one file and deploy it into the blockchain.
