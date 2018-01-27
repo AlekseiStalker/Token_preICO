@@ -1,4 +1,4 @@
-# A smart contract for creating a token and realize ICO.
+# Smart contract creating a token and realize ICO.
 
 
 A smart contract contains contracts such as Ownable.sol, ERC20.sol and BasicToken.sol, which contains the ERC20 implementation standard. You will also find the GolemNetworkToken.sol contract, which I used to test the migration.
